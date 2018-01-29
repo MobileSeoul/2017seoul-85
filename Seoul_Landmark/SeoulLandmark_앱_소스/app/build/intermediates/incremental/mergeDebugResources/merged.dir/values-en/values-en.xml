@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seoul Landmark</string>
+    <string name="fab_history">Records</string>
+    <string name="google_api_key"> AIzaSyA1Du9SbIghRogmgYlUTyR2sDH2348stOQ</string>
+    <string name="history_empty_record">No search records</string>
+    <string name="page_data_proc_error">Failed to load data</string>
+    <string name="permission_denied_camera">Need camera, storage permissions</string>
+    <string name="permission_denied_mic">Need mic permissions</string>
+    <string name="picture_tack_picture">Take a picture Landmark</string>
+    <string name="recognize_item_header_image_match">Pages With Matching Images</string>
+    <string name="recognize_item_header_land_mark">Landmark</string>
+    <string name="recognize_item_header_match_image">Full Matching Images</string>
+    <string name="recognize_item_header_similar_image">Visually Similar Images</string>
+    <string name="recognize_item_header_visit_seoul_net">Seoul Official Travel Guide</string>
+    <string name="recognize_item_header_web_search">Web Search</string>
+    <string name="title_list_land_mark">LANDMARK</string>
+    <string name="title_list_picture">CAMERA</string>
+    <string name="toast_back_press">\'Back\' pressed key again close</string>
+    <string name="toast_image_get_fail">Failed to fetch image</string>
+    <string name="toast_not_supported_camera">Not supported camera</string>
+    <string name="translate_api_key">AIzaSyAE2VZW0UWs-q-X1VCfl6vNuwg36w0HhQA</string>
+    <string name="web_certificate">\n The site\'s security certificate is not trusted.\n Do you want to continue?</string>
+    <string name="web_share">Landmark Share</string>
+</resources>

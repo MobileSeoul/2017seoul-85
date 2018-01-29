@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">서울시 랜드마크</string>
+    <string name="google_api_key"> AIzaSyA1Du9SbIghRogmgYlUTyR2sDH2348stOQ</string>
+    <string name="translate_api_key">AIzaSyAE2VZW0UWs-q-X1VCfl6vNuwg36w0HhQA</string>
+
+    <string name="toast_not_supported_camera">지원가능한 카메라가 없습니다</string>
+    <string name="toast_image_get_fail">이미지를 가져오는데 실패하였습니다</string>
+    <string name="toast_back_press">\'뒤로\' 버튼 한번 더 누르면 종료됩니다.</string>
+
+    <string name="permission_denied_camera">카메라, 저장공간 권한을 허용해야 사용할 수 있습니다</string>
+
+    <!-- picture -->
+    <string name="picture_tack_picture">랜드마크를 찍어주세요</string>
+
+    <!-- view type -->
+    <string name="recognize_item_header_land_mark">랜드마크</string>
+    <string name="recognize_item_header_image_match">이미지가 포함된 페이지</string>
+    <string name="recognize_item_header_web_search">웹 검색</string>
+    <string name="recognize_item_header_match_image">적합한 이미지</string>
+    <string name="recognize_item_header_similar_image">비슷한 이미지</string>
+    <string name="recognize_item_header_visit_seoul_net">서울 공식 여행 가이드</string>
+
+    <!-- titles -->
+    <string name="title_list_picture">사진</string>
+    <string name="title_list_land_mark">랜드마크</string>
+    <string name="title_list_history">기록</string>
+
+    <!-- page match -->
+    <string name="page_data_proc_error">데이터를 불러오지 못하였습니다</string>
+
+    <!-- web -->
+    <string name="web_share">랜드마크 공유</string>
+    <string name="web_certificate">\n사이트의 보안 인증서가 신뢰되지 않습니다.\n계속 하시겠습니까?</string>
+
+    <!-- fab -->
+    <string name="fab_history">검색기록</string>
+
+    <!-- history -->
+    <string name="history_empty_record">검색기록이 없습니다</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawerUpLayout">
+        <attr name="drawViewState" format="enum">
+            <enum name="hidden" value="0" />
+            <enum name="collapsed" value="1" />
+            <enum name="expanded" value="2" />
+        </attr>
+        <attr name="drawViewCollapsedHeight" format="dimension" />
+        <attr name="drawViewId" format="reference" />
+        <attr name="drawViewIndex" format="integer" />
+    </declare-styleable>
+</resources>

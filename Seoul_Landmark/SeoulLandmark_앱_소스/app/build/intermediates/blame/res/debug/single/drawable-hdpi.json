@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fiber_manual_record_white_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_fiber_manual_record_white_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_search_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_camera_alt_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_photo_white_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_photo_white_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_share_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_history_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_link_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-hdpi\\ic_link_black_48dp.png"
+    }
+]

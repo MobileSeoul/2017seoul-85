@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_history_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera_alt_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_photo_white_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_photo_white_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_keyboard_arrow_right_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_right_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_fiber_manual_record_white_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_fiber_manual_record_white_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_insert_photo_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_photo_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_black_48dp.png"
+    },
+    {
+        "merged": "D:\\workspace\\SeoulLandmark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_link_black_48dp.png",
+        "source": "D:\\workspace\\SeoulLandmark\\app\\src\\main\\res\\drawable-xhdpi\\ic_link_black_48dp.png"
+    }
+]

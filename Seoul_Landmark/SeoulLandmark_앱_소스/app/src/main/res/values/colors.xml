@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6b66ff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#6b66ff</color>
+
+    <color name="color_picture">#000000</color>
+    <color name="color_land_mark">#6b66ff</color>
+    <color name="color_history">#6b66ff</color>
+
+    <color name="fab_black_semi_transparent">#B2000000</color>
+    <color name="fab_black_semi_transparent_pressed">#ddf9f5f5</color>
+</resources>

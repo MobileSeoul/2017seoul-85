@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rl_no_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:paddingBottom="100dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/picture_tack_picture"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_ok_data"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_preview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:adjustViewBounds="true" />
+
+            <com.hour24.landmark.util.view.RectangleView
+                android:id="@+id/rectangle_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/iv_preview"
+                android:layout_alignLeft="@id/iv_preview"
+                android:layout_alignRight="@id/iv_preview"
+                android:layout_alignTop="@id/iv_preview" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="30dp">
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_take_camera"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:visibility="gone"
+                fab:fab_colorNormal="@android:color/white"
+                fab:fab_colorPressed="@color/fab_black_semi_transparent_pressed"
+                fab:fab_icon="@drawable/ic_camera_alt_black_48dp" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_take_gallery"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:visibility="gone"
+                fab:fab_colorNormal="@android:color/white"
+                fab:fab_colorPressed="@color/fab_black_semi_transparent_pressed"
+                fab:fab_icon="@drawable/ic_insert_photo_black_48dp" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true">
+
+                <com.getbase.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/fab_picture_group"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    fab:fab_colorNormal="@color/colorPrimary" />
+
+                <View
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@drawable/shape_picture_group" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

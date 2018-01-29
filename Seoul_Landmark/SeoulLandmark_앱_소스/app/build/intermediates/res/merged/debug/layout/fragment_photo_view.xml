@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <com.hour24.landmark.util.view.PhotoViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_colorNormal="@android:color/white"
+            fab:fab_colorPressed="@color/fab_black_semi_transparent_pressed"
+            fab:fab_icon="@drawable/ic_search_black_48dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

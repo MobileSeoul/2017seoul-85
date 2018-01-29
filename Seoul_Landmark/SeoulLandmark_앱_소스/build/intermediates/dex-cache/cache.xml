@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-http-client-1.22.0_efeb4cad1361e20a8e9e8752e4982415c02b06bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_c04f0a66523de72068d5db78ee3b488bd8f9df03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a16a93d0e4bc75491dbfb2a4c04cb6b963b7cdc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\guava-jdk5-17.0_e38cceeb763f03310eb57d12ff50f239587faf9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_9be20d3aef67e9fa1914788a4a8aca5d7e0f14a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_81fbe938320cca49c385c399014b86249cd5ddfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0_c804a1671cbbde5b15448f8eded5d7ee68ff6519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-11.0.4_402cb1dde22d25601380132fba179d830d684e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_180472218132555f3efa790bcd433f45a27dbaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_0c3d6c7d65de5e8d69b54d60a8888627e0a035e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_10ad9c38becafe5b8de337aa424fc6c6b8f0ee01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_d86f20e6c712018c8d3013875f32fe1b8dcca43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_44fe184e6469124da55038a559bfe92d2e45aebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_dc3b8dad2c90ad581bf70250bfde6756883b828a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.22.0_358d1e932e10fa9b8e9416cd3fa39314c83143fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_0087790b33bab593100bdbcc5b3d12fa5293afe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-11.0.4_ebfbf6bbd5b7b1da249d338fcd7b67ee5438b3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.22.0_62a9d1804e000a55fdad591af586d2e7fb3b0bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-http-client-gson-1.20.0_b2c307b063bee80646d6da612d4e90df16ea6163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2115d9dd8708cb48e7481b1259ae9f00dc16a032">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes-PhotoView-2.1.3_c769533963d3385ee5099ef26d2a67a611db1281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_436126266e93d53c75d57a6b7a418fb1bd9932bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\gson-2.1_7a3742a726fa975301e811a22b2f3e2d978ce39d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_9f04ba6833e27a8e24f1b446584e31c2ddd80782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-api-client-1.22.0_c88f9b388b412f6e8d700a0b0161b7eb32e96551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_1fa674689c75aa13f2facbe9309392494494d71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_efaf28d6268d232280a916408b6554c50fee43d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_a681b9e35c31647baf871219112a74f9c8846455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_8b78749bd8c54833edfa46fd6375930e35adbbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_cff03e75ca49f1a0424c42c9917bab80e762db2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-11.0.4_0de01c09970054668862e416e27230185fa5a4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_a0d3ab215332a46d9fc9c4e986d5af41dc77eb50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0_6f018d043156ec03dd460e4bd21f268cbeccf71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-vision\v1-rev349-1.22.0\f1618b40bca4fd16cc3d5a416899aa52ff71310c\google-api-services-vision-v1-rev349-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1618b40bca4fd16cc3d5a416899aa52ff71310c">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\google-api-services-vision-v1-rev349-1.22.0_0211e24df8b4e97398e1f05a62187869c85420ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_65e4c9fb202e775583ed5a56151547131e7d6f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_32f1abac66bcc9fa792d342dbfb62dc5e5abcda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_3072f8f717cfb8bfd3edf833fcb0a1ff82c46a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sejin\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_45312fc5f6dc69f9826416a5671ef9a7512d4dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\SeoulLandmark\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\workspace\SeoulLandmark\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_296ec4ace8e59b7a36f2ee5b962679f5aee8160c.jar" />
+    </item>
+
+</items>
